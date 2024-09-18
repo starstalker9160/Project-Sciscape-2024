@@ -1,3 +1,3 @@
 # Sciscape 2024
 
-3D animation of our sciscape project.
+Unity project containing a 3D animation of our physical project.
